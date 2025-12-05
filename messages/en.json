@@ -1,7 +1,7 @@
 {
   "HomePage": {
     "title": "Find Iconic Photo Spots Anywhere in the World",
-    "description": "Join the waitlist and be the first to explore hidden gems for your next trip"
+    "description": "Download now and discover hidden gems for your next trip"
   },
   "JoinForm": {
     "placeholder": "Enter your email",
@@ -12,6 +12,11 @@
       "accept": "Please accept the Terms and Privacy Policy."
     },
     "consent": "I agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>."
+  },
+  "Download": {
+    "downloadOn": "Download on the",
+    "getItOn": "Get it on",
+    "availableNow": "Available now on iOS and Android"
   },
 
   "Problem": {
@@ -56,8 +61,8 @@
     }
   },
   "JoinCTA": {
-    "title": "Help Build the World's Biggest Photo Spot Map!",
-    "subtitle": "Join the waitlist and be part of the community adding the very first spots before launch."
+    "title": "Start Discovering Amazing Photo Spots Today!",
+    "subtitle": "Download PhotoSpots now and explore the world's most photogenic locations."
   },
 
   "Privacy": {

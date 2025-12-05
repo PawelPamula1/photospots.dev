@@ -1,7 +1,7 @@
 {
   "HomePage": {
     "title": "Odkrywaj kultowe miejsca do zdjęć na całym świecie",
-    "description": "Dołącz do listy oczekujących i jako pierwszy poznaj ukryte perełki na swoją kolejną podróż"
+    "description": "Pobierz teraz i odkryj ukryte perełki na swoją kolejną podróż"
   },
   "JoinForm": {
     "placeholder": "Wpisz swój e-mail",
@@ -12,6 +12,11 @@
       "accept": "Proszę zaakceptować Regulamin i Politykę prywatności."
     },
     "consent": "Zgadzam się z <terms>Regulaminem</terms> oraz <privacy>Polityką prywatności</privacy>."
+  },
+  "Download": {
+    "downloadOn": "Pobierz z",
+    "getItOn": "Dostępne w",
+    "availableNow": "Dostępne teraz na iOS i Android"
   },
   "Problem": {
     "headline1": "Jesteś na wakacjach. Wyglądasz świetnie. Ale…",
@@ -55,8 +60,8 @@
     }
   },
   "JoinCTA": {
-    "title": "Pomóż zbudować największą mapę miejsc do zdjęć na świecie!",
-    "subtitle": "Dołącz do listy oczekujących i stań się częścią społeczności dodającej pierwsze miejscówki przed startem."
+    "title": "Zacznij odkrywać niesamowite miejsca do zdjęć już dziś!",
+    "subtitle": "Pobierz PhotoSpots teraz i odkrywaj najbardziej fotogeniczne miejsca na świecie."
   },
   "Privacy": {
     "title": "Polityka prywatności",
