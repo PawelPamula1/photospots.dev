@@ -122,7 +122,7 @@ export default function ReportCard({
           </div>
 
           {/* Description */}
-          <p className="text-sm leading-relaxed text-gray-300 font-outfit line-clamp-3">
+          <p className="text-sm leading-relaxed text-gray-300 font-outfit">
             {spot.description}
           </p>
 
@@ -146,7 +146,7 @@ export default function ReportCard({
                 <p className="text-xs text-red-300 font-outfit font-medium mb-1">
                   Report Reason:
                 </p>
-                <p className="text-xs text-red-200 font-outfit line-clamp-2">
+                <p className="text-xs text-red-200 font-outfit">
                   {report.reason}
                 </p>
               </div>

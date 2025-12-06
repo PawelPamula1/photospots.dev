@@ -86,14 +86,14 @@ export default function SpotCard({ spot, onApprove, onReject, selected, onSelect
           </div>
 
           {/* Description */}
-          <p className="text-sm leading-relaxed text-gray-300 font-outfit line-clamp-3">
+          <p className="text-sm leading-relaxed text-gray-300 font-outfit">
             {spot.description}
           </p>
 
           {/* Photo Tips */}
           {spot.photo_tips && (
             <div className="p-3 bg-purple-500/10 border border-purple-500/20 rounded-lg">
-              <p className="text-xs text-purple-300 font-outfit line-clamp-2">
+              <p className="text-xs text-purple-300 font-outfit">
                 💡 {spot.photo_tips}
               </p>
             </div>
