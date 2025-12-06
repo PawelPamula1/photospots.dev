@@ -6,8 +6,8 @@ import type { Spot } from "../useAdminHooks";
 
 type Props = {
   spot: Spot;
-  onApprove: (id: string) => void;
-  onReject: (id: string) => void;
+  onApprove: (id: string) => Promise<void>;
+  onReject: (id: string) => Promise<void>;
   selected?: boolean;
   onSelect?: () => void;
 };

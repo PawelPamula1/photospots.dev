@@ -6,8 +6,8 @@ import type { SpotReport } from "../useReportsHooks";
 
 type Props = {
   report: SpotReport;
-  onDismiss: (reportId: string) => void;
-  onDeleteSpot: (reportId: string, spotId: string) => void;
+  onDismiss: (reportId: string) => Promise<void>;
+  onDeleteSpot: (reportId: string, spotId: string) => Promise<void>;
   selected?: boolean;
   onSelect?: () => void;
 };
